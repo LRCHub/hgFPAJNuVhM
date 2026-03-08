@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "ファティマ",
+  "base_artist": "いとうかなこ",
+  "createdAt": "2026-03-08T06:29:03.878865Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ファティマ",
+      "artist": "ITO KANAKO",
+      "has_synced": true,
+      "path": "select/01_ファティマ_ITO_KANAKO.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ファティマ",
+      "artist": "いとうかなこ",
+      "has_synced": true,
+      "path": "select/02_ファティマ_いとうかなこ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ファティマ",
+      "artist": "いとうかなこ",
+      "has_synced": false,
+      "path": "select/03_ファティマ_いとうかなこ.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ファティマ (Fátima)",
+      "artist": "いとうかなこ",
+      "has_synced": true,
+      "path": "select/04_ファティマ_(Fátima)_いとうかなこ.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ファティマ (TV Size)",
+      "artist": "いとうかなこ",
+      "has_synced": true,
+      "path": "select/05_ファティマ_(TV_Size)_いとうかなこ.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ファティマ",
+      "artist": "ITO KANAKO",
+      "has_synced": true,
+      "path": "select/06_ファティマ_ITO_KANAKO.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ファティマ - Fatima",
+      "artist": "Itou Kanako",
+      "has_synced": true,
+      "path": "select/07_ファティマ_-_Fatima_Itou_Kanako.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ファティマ (Fátima) (Steins Gate)",
+      "artist": "いとうかなこ (Itou Kanako)",
+      "has_synced": true,
+      "path": "select/08_ファティマ_(Fátima)_(Steins_Gate)_いとうかなこ_(Itou_Kanako).lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ファティマ (Fátima) (Off Vocal)",
+      "artist": "いとうかなこ",
+      "has_synced": true,
+      "path": "select/09_ファティマ_(Fátima)_(Off_Vocal)_いとうかなこ.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ファティマ",
+      "artist": "Itou Kanako",
+      "has_synced": true,
+      "path": "select/10_ファティマ_Itou_Kanako.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "ファティマ",
+      "artist": "Kanako Itō",
+      "has_synced": true,
+      "path": "select/11_ファティマ_Kanako_Itō.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "ファティマ - TVサイズ Ver.",
+      "artist": "いとうかなこ",
+      "has_synced": true,
+      "path": "select/12_ファティマ_-_TVサイズ_Ver._いとうかなこ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ファティマ",
+      "artist": "いとう かなこ",
+      "has_synced": false,
+      "path": "select/pl_01_ファティマ_いとう_かなこ.txt"
+    }
+  ]
+}
